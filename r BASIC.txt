@@ -1,0 +1,66 @@
+getwd() ///working dir//
+
+setwd()// set path  no need//
+
+1+1
+5/2
+5*5
+2^4
+4^4
+5%%2
+
+3**2
+4**4
+
+
+x=c(1,2,3,4,5,6,7,8,9)
+x[c(1,5)]
+
+
+x[-3]
+
+a=c(1,2,3)
+b=c("yes","no")
+
+g=c(1,2,3,"a","b","c")
+help(c)
+
+
+a<-"we"
+b<-"are"
+c<-"learning data science"
+
+print(paste(a,b,c))
+print(paste(a,b,c, sep = " "))c()
+
+MY_VEC=c(1,2,"fddfdfdf",c(1,2,3,4,5,6,7,8,9))
+
+
+
+MY_VEC
+
+
+print(paste(a,b,C, sep =" "))C()
+
+
+list_data<-list("red","green",c(21,22,23),12)
+
+list_data[1]="Blue"
+
+list_data
+
+
+
+
+
+x=c(1,2,3,4,5,6,7,8,9)
+
+y=c(9,8,7,6,5,4,3,2,1)
+
+
+x/y
+
+
+
+M <- matrix(c(3:14), nrow = 4, byrow = FALSE)
+print(M)
